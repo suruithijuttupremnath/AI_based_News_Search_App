@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Innovate" max_length="40" name="x_622826_innovate_innovate" type="collection">
+        <element label="Idea implemented" max_length="40" name="x_622826_my_custom_idea_implemented" type="boolean"/>
+    </element>
+</database>
